@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bb5a7b7.css",
-    "main.js": "/static/js/main.2974d6c1.js",
-    "static/media/Pattern.jpg": "/static/media/Pattern.223fb431789b8be53360.jpg",
-    "static/media/TrebuchetMS.woff": "/static/media/TrebuchetMS.947eb56c60ab65710119.woff",
-    "static/media/TrebuchetMS-Bold.woff": "/static/media/TrebuchetMS-Bold.b1336a05dda88754bba5.woff",
-    "static/media/TrebuchetMS.woff2": "/static/media/TrebuchetMS.e67d3c99b3a570670da3.woff2",
-    "static/media/TrebuchetMS-Bold.woff2": "/static/media/TrebuchetMS-Bold.9aee772261ec3023d984.woff2",
-    "index.html": "/index.html",
-    "main.7bb5a7b7.css.map": "/static/css/main.7bb5a7b7.css.map",
-    "main.2974d6c1.js.map": "/static/js/main.2974d6c1.js.map"
+    "main.css": "/catItems/static/css/main.04f87311.css",
+    "main.js": "/catItems/static/js/main.2974d6c1.js",
+    "static/media/Pattern.jpg": "/catItems/static/media/Pattern.223fb431789b8be53360.jpg",
+    "static/media/TrebuchetMS.woff": "/catItems/static/media/TrebuchetMS.947eb56c60ab65710119.woff",
+    "static/media/TrebuchetMS-Bold.woff": "/catItems/static/media/TrebuchetMS-Bold.b1336a05dda88754bba5.woff",
+    "static/media/TrebuchetMS.woff2": "/catItems/static/media/TrebuchetMS.e67d3c99b3a570670da3.woff2",
+    "static/media/TrebuchetMS-Bold.woff2": "/catItems/static/media/TrebuchetMS-Bold.9aee772261ec3023d984.woff2",
+    "index.html": "/catItems/index.html",
+    "main.04f87311.css.map": "/catItems/static/css/main.04f87311.css.map",
+    "main.2974d6c1.js.map": "/catItems/static/js/main.2974d6c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bb5a7b7.css",
+    "static/css/main.04f87311.css",
     "static/js/main.2974d6c1.js"
   ]
 }
