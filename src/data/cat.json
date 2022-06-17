@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "type": "c фуа-гра",
+    "description": [
+      {
+        "number": 10,
+        "text": "порций"
+      },
+      {
+        "text": "мышь в подарок"
+      }
+    ],
+    "img": "images/cat.png",
+    "inStore": {
+      "status": true,
+      "text": "Печень утки разварная с артишоками."
+    },
+    "weight": 0.5
+  },
+  {
+    "id": 2,
+    "type": "c рыбой",
+    "description": [
+      {
+        "number": 40,
+        "text": "порций"
+      },
+      {
+        "number": 2,
+        "text": "мыши в подарок"
+      }
+    ],
+    "img": "./images/cat.png",
+    "inStore": {
+      "status": true,
+      "text": "Головы щучьи с чесноком да свежайшая сёмгушка."
+    },
+    "weight": 2
+  },
+  {
+    "id": 3,
+    "type": "с курой",
+    "description": [
+      {
+        "number": 100,
+        "text": "порций"
+      },
+      {
+        "number": 5,
+        "text": "мышей в подарок"
+      },
+      {
+        "text": "заказчик доволен"
+      }
+    ],
+    "img": "./images/cat.png",
+    "inStore": {
+      "status": false,
+      "text": "Головы щучьи с чесноком да свежайшая сёмгушка."
+    },
+    "weight": 5
+  }
+]
